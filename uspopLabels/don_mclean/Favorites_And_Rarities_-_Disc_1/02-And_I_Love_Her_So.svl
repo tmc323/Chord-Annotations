@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="3" name="" sampleRate="44100" start="49420" end="10999967" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="2"/>
+    <dataset id="2" dimensions="1">
+      <point frame="0" label="N"/>
+      <point frame="49420" label="Bb:maj"/>
+      <point frame="105984" label="Bb:maj6"/>
+      <point frame="162816" label="Bb:maj"/>
+      <point frame="217596" label="Bb:maj6"/>
+      <point frame="272896" label="Bb:maj"/>
+      <point frame="328704" label="Bb:maj6"/>
+      <point frame="384512" label="Bb:maj"/>
+      <point frame="440320" label="Bb:maj6"/>
+      <point frame="499200" label="Bb:maj"/>
+      <point frame="612120" label="C:min7"/>
+      <point frame="833536" label="Bb:maj"/>
+      <point frame="916992" label="F:maj/3"/>
+      <point frame="946688" label="G:min"/>
+      <point frame="1059609" label="C:min7"/>
+      <point frame="1170831" label="Eb:maj"/>
+      <point frame="1285007" label="F:maj/3"/>
+      <point frame="1396830" label="Bb:maj"/>
+      <point frame="1510484" label="C:min7"/>
+      <point frame="1741124" label="Bb:maj7"/>
+      <point frame="1829716" label="F:sus4/3"/>
+      <point frame="1857642" label="G:min"/>
+      <point frame="1975494" label="C:min7"/>
+      <point frame="2095616" label="Eb:maj"/>
+      <point frame="2152960" label="F:maj/3"/>
+      <point frame="2212536" label="Bb:maj"/>
+      <point frame="2271232" label="Bb:maj6"/>
+      <point frame="2330624" label="Bb:maj"/>
+      <point frame="2385920" label="Bb:maj6"/>
+      <point frame="2447360" label="Bb:maj"/>
+      <point frame="2671582" label="C:min7"/>
+      <point frame="3022137" label="F:maj/3"/>
+      <point frame="3132174" label="Bb:maj"/>
+      <point frame="3188224" label="Eb:maj(9)/5"/>
+      <point frame="3243520" label="Bb:maj"/>
+      <point frame="3298816" label="Eb:maj/5"/>
+      <point frame="3326464" label="F:maj/3"/>
+      <point frame="3354941" label="G:min7(9)"/>
+      <point frame="3581190" label="C:min7(9)"/>
+      <point frame="3922319" label="F:maj"/>
+      <point frame="4040972" label="Bb:maj"/>
+      <point frame="4162560" label="C:min7"/>
+      <point frame="4278515" label="Eb:maj"/>
+      <point frame="4333568" label="F:sus4"/>
+      <point frame="4392960" label="F:maj/3"/>
+      <point frame="4512256" label="Bb:maj/3"/>
+      <point frame="4748288" label="C:min7"/>
+      <point frame="5099008" label="F:maj/3"/>
+      <point frame="5217362" label="Bb:maj"/>
+      <point frame="5278208" label="C:min7"/>
+      <point frame="5337600" label="Bb:maj"/>
+      <point frame="5393881" label="Bb:maj6"/>
+      <point frame="5455260" label="Bb:maj"/>
+      <point frame="5513713" label="Bb:maj6"/>
+      <point frame="5573260" label="Bb:maj"/>
+      <point frame="5631478" label="Bb:maj6"/>
+      <point frame="5695448" label="Bb:maj"/>
+      <point frame="5812748" label="C:min7"/>
+      <point frame="6051328" label="Bb:maj"/>
+      <point frame="6136832" label="F:maj/3"/>
+      <point frame="6168970" label="G:min"/>
+      <point frame="6291968" label="C:min7"/>
+      <point frame="6533399" label="F:maj/3"/>
+      <point frame="6651306" label="Bb:maj"/>
+      <point frame="6766666" label="C:min7"/>
+      <point frame="7004787" label="Bb:maj"/>
+      <point frame="7094272" label="F:maj/3"/>
+      <point frame="7125862" label="G:min"/>
+      <point frame="7247083" label="C:min7"/>
+      <point frame="7376896" label="F:maj"/>
+      <point frame="7504510" label="Bb:maj"/>
+      <point frame="7564030" label="Bb:maj6"/>
+      <point frame="7623382" label="Bb:maj"/>
+      <point frame="7681152" label="Bb:maj6"/>
+      <point frame="7738040" label="Bb:maj"/>
+      <point frame="7968491" label="C:min7"/>
+      <point frame="8325626" label="F:maj/3"/>
+      <point frame="8439999" label="Bb:maj"/>
+      <point frame="8495739" label="Eb:maj/5"/>
+      <point frame="8551424" label="Bb:maj"/>
+      <point frame="8607905" label="Eb:maj/5"/>
+      <point frame="8636416" label="F:maj/3"/>
+      <point frame="8664064" label="G:min"/>
+      <point frame="8890471" label="C:min7"/>
+      <point frame="9243648" label="F:maj/3"/>
+      <point frame="9372160" label="Bb:maj"/>
+      <point frame="9721856" label="C:min7"/>
+      <point frame="9966592" label="Bb:maj"/>
+      <point frame="10050048" label="F:maj/3"/>
+      <point frame="10080968" label="G:min"/>
+      <point frame="10194432" label="C:min7"/>
+      <point frame="10317312" label="Eb:maj"/>
+      <point frame="10377216" label="C:7/3"/>
+      <point frame="10437632" label="F:maj"/>
+      <point frame="10565632" label="Bb:maj"/>
+      <point frame="10814976" label="C:min(*5)/b3"/>
+      <point frame="10847744" label="Bb:maj(*5)/3"/>
+      <point frame="10887680" label="C:min(*5)/b3"/>
+      <point frame="10934272" label="F:min"/>
+      <point frame="10999967" label="Bb:maj"/>
+      <point frame="11333700" label="end"/>
+    </dataset>
+  </data>
+  <display>
+    <layer id="0" type="timeinstants" name="Time Instants" model="3" plotStyle="0" colourName="Purple" colour="#c832ff" darkBackground="false"/>
+  </display>
+</sv>
