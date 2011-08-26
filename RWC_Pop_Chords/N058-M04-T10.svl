@@ -82,7 +82,7 @@
       <point frame="7267856" label="G#:7"/>
       <point frame="7357424" label="G:maj7"/>
       <point frame="7447564" label="F#:min"/>
-      <point frame="7581187" label="F#:min(*3,*5)"/>
+      <point frame="7581187" label="F#:min(*b3,*5)"/>
       <point frame="7894035" label="F#:min"/>
       <point frame="7984658" label="G#:7"/>
       <point frame="8074225" label="G:maj"/>

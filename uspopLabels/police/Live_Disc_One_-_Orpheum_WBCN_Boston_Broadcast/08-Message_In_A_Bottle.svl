@@ -15,7 +15,7 @@
       <point frame="228365" label="F#:min(9)"/>
       <point frame="269134" label="C#:min(*b3,9)"/>
       <point frame="294656" label="A:maj(*3,9)"/>
-      <point frame="325877" label="B:maj(*b3,9)"/>
+      <point frame="325877" label="B:maj(*3,9)"/>
       <point frame="360473" label="F#:min(9)"/>
       <point frame="401889" label="C#:min(*b3,9)"/>
       <point frame="426854" label="A:maj(*3,9)"/>

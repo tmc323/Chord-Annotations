@@ -36,7 +36,7 @@
       <point frame="1547249" label="Ab:maj7"/>
       <point frame="1582560" label="D:hdim7"/>
       <point frame="1652400" label="G:sus4"/>
-      <point frame="1716480" label="Db:(#11)"/>
+      <point frame="1716480" label="Db:maj(#11)"/>
       <point frame="1801080" label="C:min"/>
       <point frame="1841400" label="C:min7"/>
       <point frame="1873440" label="F:maj/5"/>
@@ -58,7 +58,7 @@
       <point frame="2790922" label="C:min7/b7"/>
       <point frame="2863800" label="Ab:maj7"/>
       <point frame="2934000" label="G:sus4"/>
-      <point frame="2961932" label="Db:(#11)"/>
+      <point frame="2961932" label="Db:maj(#11)"/>
       <point frame="3008160" label="C:maj"/>
       <point frame="3080160" label="C:min7/b7"/>
       <point frame="3151440" label="Ab:maj7"/>
@@ -79,8 +79,8 @@
       <point frame="3942000" label="Eb:maj9"/>
       <point frame="3970440" label="C:min/5"/>
       <point frame="4005720" label="D:hdim7"/>
-      <point frame="4075502" label="G"/>
-      <point frame="4142160" label="Db:(#11)"/>
+      <point frame="4075502" label="G:maj"/>
+      <point frame="4142160" label="Db:maj(#11)"/>
       <point frame="4225530" label="C:min"/>
       <point frame="4366826" label="Db:maj7"/>
       <point frame="4402194" label="C:min7"/>
@@ -102,7 +102,7 @@
       <point frame="5477986" label="C:min"/>
       <point frame="5550073" label="C:min7/b7"/>
       <point frame="5621251" label="Ab:maj7"/>
-      <point frame="5691899" label="Db:(#11)"/>
+      <point frame="5691899" label="Db:maj(#11)"/>
       <point frame="5764091" label="C:min"/>
       <point frame="5862389" label="N"/>
       <point frame="6018768" label="end"/>

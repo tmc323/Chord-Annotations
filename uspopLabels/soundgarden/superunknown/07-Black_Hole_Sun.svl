@@ -8,7 +8,7 @@
       <point frame="8640" label="Ab:sus4"/>
       <point frame="110880" label="Cb:maj(6,9)"/>
       <point frame="215640" label="Gb:maj(*3)"/>
-      <point frame="315357" label="F:min(*3)"/>
+      <point frame="315357" label="F:min(*b3)"/>
       <point frame="417960" label="E:sus4"/>
       <point frame="520739" label="Eb:7(*3)"/>
       <point frame="725040" label="Ab:maj6"/>

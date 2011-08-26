@@ -6,9 +6,9 @@
     <dataset id="2" dimensions="1">
       <point frame="0" label="N"/>
       <point frame="14336" label="G:maj(*3,*5)"/>
-      <point frame="165666" label="E:min(*3,*5)"/>
+      <point frame="165666" label="E:min(*b3,*5)"/>
       <point frame="316743" label="G:maj(*3,*5)"/>
-      <point frame="467968" label="D:min(*3,*5)"/>
+      <point frame="467968" label="D:min(*b3,*5)"/>
       <point frame="623022" label="N"/>
       <point frame="1079494" label="Eb:min"/>
       <point frame="1156247" label="Db:maj"/>
@@ -78,12 +78,12 @@
       <point frame="6039863" label="Db:maj"/>
       <point frame="6116352" label="Eb:min"/>
       <point frame="6192435" label="Db:maj"/>
-      <point frame="6266883" label="Eb:min(*3,*5)"/>
+      <point frame="6266883" label="Eb:min(*b3,*5)"/>
       <point frame="6536510" label="Db:maj(*3)"/>
-      <point frame="6573056" label="Eb:min(*3)"/>
+      <point frame="6573056" label="Eb:min(*b3)"/>
       <point frame="6840511" label="Db:maj(*3)"/>
       <point frame="6877743" label="Eb:min7"/>
-      <point frame="7107281" label="Bb:min(*3)"/>
+      <point frame="7107281" label="Bb:min(*b3)"/>
       <point frame="7147520" label="Db:maj(*3)"/>
       <point frame="7183408" label="Eb:min"/>
       <point frame="7565312" label="Db:maj"/>

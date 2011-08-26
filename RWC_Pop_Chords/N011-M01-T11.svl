@@ -30,11 +30,11 @@
       <point frame="2589199" label="Bb:min6"/>
       <point frame="2706946" label="A:min"/>
       <point frame="2825359" label="D:sus4"/>
-      <point frame="2883240" label="D"/>
+      <point frame="2883240" label="D:maj"/>
       <point frame="2941955" label="G:min"/>
       <point frame="3059702" label="A:min"/>
       <point frame="3176964" label="Bb:min7"/>
-      <point frame="3294711" label="F/3"/>
+      <point frame="3294711" label="F:maj/3"/>
       <point frame="3412458" label="D:min9"/>
       <point frame="3530249" label="G:7(13)"/>
       <point frame="3647680" label="Bb:maj/2"/>
@@ -60,7 +60,7 @@
       <point frame="5764620" label="G:min7"/>
       <point frame="5882367" label="A:min"/>
       <point frame="6000114" label="Bb:maj7"/>
-      <point frame="6117376" label="F/3"/>
+      <point frame="6117376" label="F:maj/3"/>
       <point frame="6235123" label="D:min9"/>
       <point frame="6352914" label="G:7(13)"/>
       <point frame="6472064" label="Bb:maj/2"/>

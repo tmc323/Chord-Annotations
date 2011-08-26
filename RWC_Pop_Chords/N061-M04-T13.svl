@@ -87,11 +87,11 @@
       <point frame="6028053" label="B:min7"/>
       <point frame="6124680" label="E:min7"/>
       <point frame="6201720" label="B:min"/>
-      <point frame="6300170" label="C"/>
+      <point frame="6300170" label="C:maj"/>
       <point frame="6474762" label="B:min"/>
-      <point frame="6649839" label="C"/>
+      <point frame="6649839" label="C:maj"/>
       <point frame="6824960" label="B:min"/>
-      <point frame="6999552" label="C"/>
+      <point frame="6999552" label="C:maj"/>
       <point frame="7175158" label="B:min"/>
       <point frame="7260672" label="B:min7/5"/>
       <point frame="7349750" label="E:min7"/>

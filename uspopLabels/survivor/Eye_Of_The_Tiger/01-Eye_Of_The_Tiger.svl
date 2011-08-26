@@ -5,7 +5,7 @@
     <model id="2" name="" sampleRate="44100" start="20160" end="10662880" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="1"/>
     <dataset id="1" dimensions="1">
       <point frame="0" label="N"/>
-      <point frame="20160" label="C:min(*3,*5)"/>
+      <point frame="20160" label="C:min(*b3,*5)"/>
       <point frame="410813" label="C:min"/>
       <point frame="477360" label="Bb:maj"/>
       <point frame="494326" label="C:min"/>
@@ -65,7 +65,7 @@
       <point frame="4297783" label="F:min"/>
       <point frame="4346272" label="Eb:maj"/>
       <point frame="4393822" label="Ab:maj"/>
-      <point frame="4491648" label="C:min(*3,*5)"/>
+      <point frame="4491648" label="C:min(*b3,*5)"/>
       <point frame="4688635" label="C:min(9)"/>
       <point frame="4785006" label="Ab:maj7"/>
       <point frame="4882750" label="Bb:7"/>
@@ -92,7 +92,7 @@
       <point frame="6046720" label="F:min"/>
       <point frame="6093824" label="Eb:maj"/>
       <point frame="6141440" label="Ab:maj"/>
-      <point frame="6241280" label="C:min(*3,*5)"/>
+      <point frame="6241280" label="C:min(*b3,*5)"/>
       <point frame="6632960" label="C:min9"/>
       <point frame="6728238" label="Ab:maj7"/>
       <point frame="6824703" label="Bb:7"/>
@@ -120,7 +120,7 @@
       <point frame="7990016" label="F:min"/>
       <point frame="8038912" label="Eb:maj"/>
       <point frame="8087552" label="Ab:maj"/>
-      <point frame="8283648" label="C:min(*3,*5)"/>
+      <point frame="8283648" label="C:min(*b3,*5)"/>
       <point frame="8478720" label="C:min"/>
       <point frame="8544768" label="Bb:maj"/>
       <point frame="8563200" label="C:min"/>

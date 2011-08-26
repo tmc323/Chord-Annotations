@@ -66,7 +66,7 @@
       <point frame="5264585" label="G:min(*b3,*5)"/>
       <point frame="5332524" label="F:maj(*3,*5)"/>
       <point frame="5401760" label="G:min(*b3)"/>
-      <point frame="5466319" label="F:maj(*b3)"/>
+      <point frame="5466319" label="F:maj(*3)"/>
       <point frame="5535084" label="G:min(*b3)"/>
       <point frame="5601828" label="F:maj(*3)"/>
       <point frame="5672634" label="G:min(*b3)"/>
@@ -74,7 +74,7 @@
       <point frame="5807421" label="G:min(*b3,*5)"/>
       <point frame="5875087" label="F:maj(*3,*5)"/>
       <point frame="5939636" label="G:min(*b3,*5)"/>
-      <point frame="6007567" label="F:maj(*b3)"/>
+      <point frame="6007567" label="F:maj(*3)"/>
       <point frame="6075742" label="G:min(*b3,*5)"/>
       <point frame="6141368" label="F:maj(*3)"/>
       <point frame="6209072" label="G:min(*b3)"/>
@@ -191,19 +191,19 @@
       <point frame="14100724" label="Eb:maj"/>
       <point frame="14116255" label="F:maj"/>
       <point frame="14243472" label="F:maj(*3)"/>
-      <point frame="14265073" label="G:min(*3)"/>
+      <point frame="14265073" label="G:min(*b3)"/>
       <point frame="14331628" label="F:maj(*3)"/>
-      <point frame="14356670" label="G:min(*3)"/>
+      <point frame="14356670" label="G:min(*b3)"/>
       <point frame="14423235" label="F:maj(*3)"/>
-      <point frame="14446616" label="G:min(*3)"/>
+      <point frame="14446616" label="G:min(*b3)"/>
       <point frame="14487043" label="F:maj(*3)"/>
-      <point frame="14500099" label="G:min(*3)"/>
+      <point frame="14500099" label="G:min(*b3)"/>
       <point frame="14542462" label="F:maj(*3)"/>
-      <point frame="14559744" label="G:min(*3)"/>
+      <point frame="14559744" label="G:min(*b3)"/>
       <point frame="14607555" label="F:maj(*3)"/>
-      <point frame="14625397" label="G:min(*3)"/>
+      <point frame="14625397" label="G:min(*b3)"/>
       <point frame="14674324" label="F:maj(*3)"/>
-      <point frame="14693890" label="G:min(*3)"/>
+      <point frame="14693890" label="G:min(*b3)"/>
       <point frame="15030347" label="G:min"/>
       <point frame="15078400" label="N"/>
       <point frame="16317000" label="end"/>

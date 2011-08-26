@@ -42,7 +42,7 @@
       <point frame="2649401" label="D:maj(*3)"/>
       <point frame="2674929" label="A:maj/3"/>
       <point frame="2699255" label="A:maj(*3,*5)"/>
-      <point frame="2798580" label="B:min(*3,*5)"/>
+      <point frame="2798580" label="B:min(*b3,*5)"/>
       <point frame="2849671" label="D:maj(*3)"/>
       <point frame="2871886" label="A:maj/3"/>
       <point frame="2897323" label="A:maj(*3,*5)"/>

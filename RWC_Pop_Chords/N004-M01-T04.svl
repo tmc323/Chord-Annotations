@@ -16,7 +16,7 @@
       <point frame="863213" label="F:maj/3"/>
       <point frame="986120" label="G:min7"/>
       <point frame="1048081" label="F:maj/5"/>
-      <point frame="1109512" label="E"/>
+      <point frame="1109512" label="E:maj"/>
       <point frame="1232375" label="Eb:maj7"/>
       <point frame="1355281" label="D:min7"/>
       <point frame="1478673" label="G:min7"/>
@@ -37,14 +37,14 @@
       <point frame="2463250" label="G:min7"/>
       <point frame="2687040" label="C:maj(*5)"/>
       <point frame="2708975" label="G:min7"/>
-      <point frame="2832367" label="Bb:(*3,*5)"/>
-      <point frame="2863104" label="C:(*3,*5)"/>
-      <point frame="2893842" label="D:(*3,*5)"/>
+      <point frame="2832367" label="Bb:maj(*3,*5)"/>
+      <point frame="2863104" label="C:maj(*3,*5)"/>
+      <point frame="2893842" label="D:maj(*3,*5)"/>
       <point frame="2924536" label="F:maj7"/>
       <point frame="2955273" label="G:min7"/>
-      <point frame="3078665" label="D:(*3,*5)"/>
-      <point frame="3109359" label="C:(*3,*5)"/>
-      <point frame="3140096" label="Bb:(*3,*5)"/>
+      <point frame="3078665" label="D:maj(*3,*5)"/>
+      <point frame="3109359" label="C:maj(*3,*5)"/>
+      <point frame="3140096" label="Bb:maj(*3,*5)"/>
       <point frame="3170834" label="A:min"/>
       <point frame="3201528" label="G:min7"/>
       <point frame="3324240" label="F:min7"/>

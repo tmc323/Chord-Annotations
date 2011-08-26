@@ -47,16 +47,16 @@
       <point frame="2802389" label="B:min"/>
       <point frame="2910069" label="G:maj"/>
       <point frame="2962746" label="A:sus2(b7)"/>
-      <point frame="3014870" label="B:min(*3)"/>
+      <point frame="3014870" label="B:min(*b3)"/>
       <point frame="3124154" label="G:maj(*3)"/>
       <point frame="3177562" label="A:maj(*3)"/>
-      <point frame="3230186" label="B:min(*3)"/>
+      <point frame="3230186" label="B:min(*b3)"/>
       <point frame="3337528" label="E:maj(*3)"/>
       <point frame="3391129" label="F#:maj(*3)"/>
-      <point frame="3445493" label="B:min(*3)"/>
+      <point frame="3445493" label="B:min(*b3)"/>
       <point frame="3553376" label="G:maj(*3)"/>
       <point frame="3605132" label="A:maj(*3)"/>
-      <point frame="3657016" label="B:min(*3)"/>
+      <point frame="3657016" label="B:min(*b3)"/>
       <point frame="3766233" label="E:maj(*3)"/>
       <point frame="3816648" label="F#:maj(*3)"/>
       <point frame="3870681" label="B:min"/>
@@ -77,28 +77,28 @@
       <point frame="4940877" label="B:min"/>
       <point frame="5049281" label="G:maj6/6"/>
       <point frame="5101845" label="A:sus2(6,b7)/6"/>
-      <point frame="5154714" label="B:min(*3)"/>
+      <point frame="5154714" label="B:min(*b3)"/>
       <point frame="5264219" label="G:maj(*3)"/>
       <point frame="5317456" label="A:maj(*3)"/>
-      <point frame="5369765" label="B:min(*3)"/>
+      <point frame="5369765" label="B:min(*b3)"/>
       <point frame="5476849" label="E:maj(*3)"/>
       <point frame="5529395" label="F#:maj(*3)"/>
       <point frame="5582985" label="B:maj(*3)"/>
       <point frame="5688698" label="G:maj(*3)"/>
       <point frame="5743567" label="A:maj(*3)"/>
-      <point frame="5796555" label="B:min(*3)"/>
+      <point frame="5796555" label="B:min(*b3)"/>
       <point frame="5905181" label="E:maj(*3)"/>
       <point frame="5956510" label="F#:maj(*3)"/>
-      <point frame="6010268" label="B:min(*3)"/>
+      <point frame="6010268" label="B:min(*b3)"/>
       <point frame="6118174" label="G:maj(*3)"/>
       <point frame="6171579" label="A:maj(*3)"/>
-      <point frame="6224806" label="B:min(*3)"/>
+      <point frame="6224806" label="B:min(*b3)"/>
       <point frame="6331837" label="E:maj(*3)"/>
       <point frame="6384769" label="F#:maj(*3)"/>
-      <point frame="6438030" label="B:min(*3)"/>
+      <point frame="6438030" label="B:min(*b3)"/>
       <point frame="6544770" label="G:maj(*3)"/>
       <point frame="6599812" label="A:maj(*3)"/>
-      <point frame="6652192" label="B:min(*3)"/>
+      <point frame="6652192" label="B:min(*b3)"/>
       <point frame="6759452" label="E:maj(*3)"/>
       <point frame="6812157" label="F#:maj(*3)"/>
       <point frame="6866616" label="B:min"/>
@@ -119,31 +119,31 @@
       <point frame="7934877" label="B:min"/>
       <point frame="8041907" label="A:maj"/>
       <point frame="8096098" label="G:maj"/>
-      <point frame="8149964" label="B:min(*3)"/>
+      <point frame="8149964" label="B:min(*b3)"/>
       <point frame="8257900" label="G:maj(*3)"/>
       <point frame="8311511" label="A:maj(*3)"/>
-      <point frame="8364739" label="B:min(*3)"/>
+      <point frame="8364739" label="B:min(*b3)"/>
       <point frame="8471670" label="E:maj(*3)"/>
       <point frame="8524944" label="F#:maj(*3)"/>
-      <point frame="8578832" label="B:min(*3)"/>
+      <point frame="8578832" label="B:min(*b3)"/>
       <point frame="8683710" label="G:maj(*3)"/>
       <point frame="8738402" label="A:maj(*3)"/>
-      <point frame="8791342" label="B:min(*3)"/>
+      <point frame="8791342" label="B:min(*b3)"/>
       <point frame="8898533" label="E:maj(*3)"/>
       <point frame="8951685" label="F#:maj(*3)"/>
-      <point frame="9005166" label="B:min(*3)"/>
+      <point frame="9005166" label="B:min(*b3)"/>
       <point frame="9114775" label="G:maj(*3)"/>
       <point frame="9166383" label="A:maj(*3)"/>
-      <point frame="9219903" label="B:min(*3)"/>
+      <point frame="9219903" label="B:min(*b3)"/>
       <point frame="9327176" label="E:maj(*3)"/>
       <point frame="9380025" label="F#:maj(*3)"/>
-      <point frame="9432340" label="B:min(*3)"/>
+      <point frame="9432340" label="B:min(*b3)"/>
       <point frame="9540871" label="G:maj(*3)"/>
       <point frame="9594264" label="A:maj(*3)"/>
-      <point frame="9647872" label="B:min(*3)"/>
+      <point frame="9647872" label="B:min(*b3)"/>
       <point frame="9753823" label="E:maj(*3)"/>
       <point frame="9807089" label="F#:maj(*3)"/>
-      <point frame="9860748" label="B:min(*3)"/>
+      <point frame="9860748" label="B:min(*b3)"/>
       <point frame="10308375" label="end"/>
     </dataset>
   </data>

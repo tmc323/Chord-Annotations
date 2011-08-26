@@ -281,7 +281,7 @@
       <point frame="16184097" label="C:maj"/>
       <point frame="16265603" label="Ab:maj"/>
       <point frame="16347792" label="C:maj(*3)"/>
-      <point frame="16386260" label="G:min(*3)"/>
+      <point frame="16386260" label="G:min(*b3)"/>
       <point frame="16426849" label="Bb:maj(*3)"/>
       <point frame="16500927" label="G:maj(*3)"/>
       <point frame="16523875" label="Bb:maj(6)/6"/>

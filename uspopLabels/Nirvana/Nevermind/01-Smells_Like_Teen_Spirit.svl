@@ -111,7 +111,7 @@
       <point frame="4316672" label="F:min(*b3)/5"/>
       <point frame="4327936" label="Gb:maj(*3)"/>
       <point frame="4350605" label="A:maj(*3)"/>
-      <point frame="4361728" label="G:min(*3)"/>
+      <point frame="4361728" label="G:min(*b3)"/>
       <point frame="4372480" label="F:min(*b3,*5)"/>
       <point frame="4419219" label="Bb:maj(*3,*5)"/>
       <point frame="4463254" label="Ab:maj(*3,*5)"/>

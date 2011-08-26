@@ -138,7 +138,7 @@
       <point frame="15157800" label="E:min7(*b3)"/>
       <point frame="15408061" label="E:min(*b3)"/>
       <point frame="15431760" label="B:min(*b3)"/>
-      <point frame="15451200" label="D:maj(*b3)"/>
+      <point frame="15451200" label="D:maj(*3)"/>
       <point frame="15524844" label="E:min7(*b3)"/>
       <point frame="15647251" label="E:min(*b3)"/>
       <point frame="15669213" label="G:maj(*3)"/>
@@ -146,7 +146,7 @@
       <point frame="15760365" label="E:min7(*b3)"/>
       <point frame="15883560" label="E:min(*b3)"/>
       <point frame="15906555" label="B:min(*b3)"/>
-      <point frame="15925266" label="D:maj(*b3)"/>
+      <point frame="15925266" label="D:maj(*3)"/>
       <point frame="15999120" label="E:min7(*b3)"/>
       <point frame="16120080" label="E:min(*b3)"/>
       <point frame="16142040" label="G:maj(*3)"/>

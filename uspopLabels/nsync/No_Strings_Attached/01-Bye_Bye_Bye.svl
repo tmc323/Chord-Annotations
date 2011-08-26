@@ -6,7 +6,7 @@
     <dataset id="10" dimensions="1">
       <point frame="0" label="N"/>
       <point frame="27360" label="G#:min(*b3,*5)"/>
-      <point frame="146484" label="F#:maj(*b3)"/>
+      <point frame="146484" label="F#:maj(*3)"/>
       <point frame="267751" label="E:maj"/>
       <point frame="389564" label="N"/>
       <point frame="511889" label="G#:min"/>

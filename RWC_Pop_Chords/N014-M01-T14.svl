@@ -14,14 +14,14 @@
       <point frame="362926" label="E:min7"/>
       <point frame="408587" label="A:maj"/>
       <point frame="437781" label="N"/>
-      <point frame="483336" label="D"/>
+      <point frame="483336" label="D:maj"/>
       <point frame="543224" label="B:min7"/>
       <point frame="603641" label="G:maj6"/>
-      <point frame="648711" label="A"/>
+      <point frame="648711" label="A:maj"/>
       <point frame="723990" label="B:min7"/>
       <point frame="783877" label="G:maj6"/>
       <point frame="844452" label="E:min7"/>
-      <point frame="889365" label="A"/>
+      <point frame="889365" label="A:maj"/>
       <point frame="919044" label="N"/>
       <point frame="964114" label="D:maj"/>
       <point frame="1024531" label="A:maj/3"/>

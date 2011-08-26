@@ -5,8 +5,8 @@
     <model id="2" name="" sampleRate="44100" start="9216" end="14190372" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="1"/>
     <dataset id="1" dimensions="1">
       <point frame="0" label="N"/>
-      <point frame="231840" label="D:min(*3)"/>
-      <point frame="908288" label="D:min(*3,*5)"/>
+      <point frame="231840" label="D:min(*b3)"/>
+      <point frame="908288" label="D:min(*b3,*5)"/>
       <point frame="1354291" label="D:min"/>
       <point frame="1467392" label="C:maj(2)/2"/>
       <point frame="1579347" label="Bb:maj/3"/>

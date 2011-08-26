@@ -42,7 +42,7 @@
       <point frame="7384589" label="G:maj7"/>
       <point frame="7646190" label="D:maj9"/>
       <point frame="7908850" label="G:min9"/>
-      <point frame="8036352" label="D"/>
+      <point frame="8036352" label="D:maj"/>
       <point frame="8263679" label="N"/>
       <point frame="8427819" label="end"/>
     </dataset>

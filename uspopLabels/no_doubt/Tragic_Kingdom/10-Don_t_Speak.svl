@@ -74,7 +74,7 @@
       <point frame="4966564" label="C:maj"/>
       <point frame="5036320" label="Bb:min6"/>
       <point frame="5107775" label="C:maj"/>
-      <point frame="5175552" label="F:min(*3,*5)"/>
+      <point frame="5175552" label="F:min(*b3,*5)"/>
       <point frame="5211648" label="Eb:maj(*3,*5)"/>
       <point frame="5245440" label="C:maj(*3,*5)"/>
       <point frame="5280768" label="Ab:maj(*3,*5)"/>

@@ -5,7 +5,7 @@
     <model id="19" name="" sampleRate="44100" start="13312" end="8670307" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="18"/>
     <dataset id="18" dimensions="1">
       <point frame="0" label="N"/>
-      <point frame="231923" label="D:min(*3)"/>
+      <point frame="231923" label="D:min(*b3)"/>
       <point frame="669741" label="D:min"/>
       <point frame="779285" label="A:min/b3"/>
       <point frame="889084" label="D:min"/>

@@ -21,11 +21,11 @@ DOMINANTS = ['7', '9', '11', '13']
 ALLTYPES = TRIADS+SEVENTH+SIXTH+EXTENDED+SUSPENDED+DOMINANTS+EXTENDED2
 
 
-#curdir = os.path.abspath(os.path.expanduser("~/Dropbox/RWC_Pop_Chords"))
-curdir = os.path.abspath(os.path.expanduser("~/Dropbox/uspopLabels"))
+curdir = os.path.abspath(os.path.expanduser("~/Projects/Chord-Annotations/RWC_Pop_Chords"))
+#curdir = os.path.abspath(os.path.expanduser("~/Projects/Chord-Annotations/uspopLabels"))
 #curdir = os.path.expanduser(sys.argv[1])
-#destdir = os.path.abspath(os.path.expanduser("~/MacHDD/Volumes/Audio/Data/RWC-MDB-P-2001"))
-destdir = os.path.abspath(os.path.expanduser("~/MacHDD/Users/taemin/mp3s"))
+destdir = os.path.abspath(os.path.expanduser("~/MacHDD/Volumes/Audio/Data/RWC-MDB-P-2001"))
+#destdir = os.path.abspath(os.path.expanduser("~/MacHDD/Users/taemin/mp3s"))
 #destdir = os.path.expanduser(sys.argv[2])
 
 Labfiles = [os.path.join(dirname, filename) \
@@ -106,13 +106,29 @@ def checkGrammar(frame, label):
     if root != 'end':
         root = root.capitalize()
 
+    if quality == '' and not acc.count('1'):
+        if root != 'end' and root != 'N':
+            quality = 'maj'
 
     if quality != '':
+        if ['maj', 'maj7', '7', 'maj6'].count(quality):
+            if acc.count('*b3'):
+                acc.remove('*b3')
+                acc.append('*3')
+                suggestionNeeded = True
+
+        if ['min', 'min7', 'dim', 'hdim', 'min6'].count(quality):
+            if acc.count('*3'):
+                acc.remove('*3')
+                acc.append('*b3')
+                suggestionNeeded = True
+
         if quality == 'maj':
             if acc.count('#5'):
                 acc.remove('#5')
                 quality = 'aug'
                 suggestionNeeded = True
+
         if quality == '7':
             if acc.count('#5'):
                 acc.remove('#5')
@@ -356,6 +372,8 @@ for labfile in Labfiles:
     audiofilename = destdir + labfile[len(curdir):-4]
     samples = 0
     error = []
+    newXML = []
+    errors = []
     changes = []
 
     for ext in AUDIO_EXT:
@@ -395,11 +413,12 @@ for labfile in Labfiles:
 
 
     if newXML:
-        cmd = 'mv %s %s' %(labfile, labfile+'.bak')
-        os.system(cmd)
+        # cmd = 'mv %s %s' %(labfile, labfile+'.bak')
+        # os.system(cmd)
         f = open(labfile, 'w')
         f.writelines(newXML)
         f.close()
+        svl2lab(labfile)
 
     if error or changes:
         print labfile
@@ -413,4 +432,4 @@ for labfile in Labfiles:
             print ''
 
 
-    svl2lab(labfile)
+
