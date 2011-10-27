@@ -45,7 +45,7 @@ For downloading the files, you need to install git, then type below in your term
     http://labrosa.ee.columbia.edu/projects/musicsim/uspop2002.html
 
 * Please help us
-  The chord labels may have errors, and you can contribute to improve the quilities.
+  The chord labels may have errors, and you can help us, you can contribute to improve the quilities of this data set.
   If you found any errors (wrong chord labels, timings and etc.), please let us know to fix them.
 
   You can also participate this project. Please contact us, and get your permission to access the repository.
@@ -53,7 +53,6 @@ For downloading the files, you need to install git, then type below in your term
 * Contact
 
   Taemin Cho <tmc323@nyu.edu>
-  (http://www.taemincho.com)
 
   MARL (Music and Audio Research Lab)
   Music Technology, New York University
