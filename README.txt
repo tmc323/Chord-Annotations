@@ -4,6 +4,13 @@ is happy to release hundreds of human annotated chord labels to MIR researchers.
 All chord transcriptions have been manually annotated by NYU undergraduate music students,
 and each song has double checked by two annotators.
 
+You can download the latest label files from our repository.
+
+   git://github.com/tmc323/Chord-Annotations.git
+
+For downloading the files, you need to install git, then type below in your terminal:
+   git clone git://github.com/tmc323/Chord-Annotations.git
+
 
 * Format
   Chord labels are annotated following Christopher Harte's chord notation rules that used in his famous Beatle dataset.
@@ -37,11 +44,20 @@ and each song has double checked by two annotators.
     Please contact LabROSA
     http://labrosa.ee.columbia.edu/projects/musicsim/uspop2002.html
 
+* Please help us
+  The chord labels may have errors, and you can contribute to improve the quilities.
+  If you found any errors (wrong chord labels, timings and etc.), please let us know to fix them.
+
+  You can also participate this project. Please contact us, and get your permission to access the repository.
 
 * Contact
 
   Taemin Cho <tmc323@nyu.edu>
+  (http://www.taemincho.com)
 
+  MARL (Music and Audio Research Lab)
+  Music Technology, New York University
+  http://marl.smusic.nyu.edu
 
 * Special Thanks to these Annotators:
 
