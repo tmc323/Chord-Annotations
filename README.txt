@@ -51,7 +51,7 @@ So, please check the repository regularly.
     http://labrosa.ee.columbia.edu/projects/musicsim/uspop2002.html
 
 * Please help us
-  The chord labels may have errors.
+  Although the annotations were double checked, they may still have errors.
   If you found any error, inaccuracy of any kind, please let us know to fix it.
   Any comments and feedback is also very helpful to improve the quality of the database.
 
