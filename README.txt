@@ -9,7 +9,7 @@ to download the files, you will need to install git, then type below in your ter
    git clone git://github.com/tmc323/Chord-Annotations.git
 
 All chord transcriptions are manually annotated by NYU undergraduate music students,
-and each song has been double checked by two different annotators.
+and each transcription has been double checked by two different annotators.
 
 Our dataset provides the chord transcriptions for all 100 songs of RWC Popular Music database ( http://staff.aist.go.jp/m.goto/RWC-MDB/rwc-mdb-p.html ).
 In addition, up to now, we provide 195 songs out of 8752 songs from the uspop2002 Pop Music data set ( http://labrosa.ee.columbia.edu/projects/musicsim/uspop2002.html ).
