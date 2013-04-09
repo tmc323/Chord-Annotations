@@ -31,11 +31,11 @@
       <point frame="1740800" label="F:maj"/>
       <point frame="1762304" label="Bb:maj"/>
       <point frame="1809423" label="Eb:maj"/>
-      <point frame="1887745" label="Bb:maj(b10)"/>
+      <point frame="1887745" label="Bb:maj(#9)"/>
       <point frame="1967125" label="Eb:maj"/>
-      <point frame="2045931" label="Bb:maj(b10)"/>
+      <point frame="2045931" label="Bb:maj(#9)"/>
       <point frame="2123264" label="Eb:7"/>
-      <point frame="2203633" label="Bb:maj(b10)"/>
+      <point frame="2203633" label="Bb:maj(#9)"/>
       <point frame="2282484" label="C:maj6"/>
       <point frame="2361864" label="F:maj"/>
       <point frame="2440715" label="Bb:maj6"/>
@@ -89,9 +89,9 @@
       <point frame="5836811" label="F:maj"/>
       <point frame="5868544" label="Bb:maj"/>
       <point frame="5916677" label="Eb:maj"/>
-      <point frame="5989888" label="Bb:maj(b10)"/>
+      <point frame="5989888" label="Bb:maj(#9)"/>
       <point frame="6070784" label="Eb:maj"/>
-      <point frame="6147584" label="Bb:maj(b10)"/>
+      <point frame="6147584" label="Bb:maj(#9)"/>
       <point frame="6390266" label="C:min"/>
       <point frame="6410244" label="A:min"/>
       <point frame="6469117" label="F:maj"/>
